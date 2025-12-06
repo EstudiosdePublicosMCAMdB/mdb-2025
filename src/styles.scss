@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #222;
+    background-color: #000000;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-height: 100vh;
+}
+
+h1, h2, p, span, a {
+    color: #FFFFFF;
+}
+
+main {
+    header {
+
+    }
+
+    .top-content {
+
+        &__left {
+            
+        }
+        
+        .text {
+
+        }
+    }
+
+    .cards-content {
+        .description {
+
+        }
+
+        &__grid {
+            .container {
+                &.flex {
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    max-width: 1170px;
+                    margin: 0 auto;
+                    padding: 0 15px;
+                }
+                .card {
+                    width: calc(33% - 15px);
+                    background-color: #919DAB;
+                    figure {
+                        .img-fit {
+                            width: 100%;
+                            height: 100%;
+                            object-fit: cover;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
+
