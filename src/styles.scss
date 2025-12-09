@@ -208,14 +208,36 @@ main {
                             color: #000000;
                         }
 
-                        .container-two-iframes {
+                        .container-two-elements {
                             display: flex;
                             flex-direction: row;
                             width: 100%;
                             align-items: center;
+                            gap: 15px;
 
-                            iframe {
-                                width: 50%;
+                            iframe,
+                            .map {
+                                width: calc(50% - 15px);
+                            }
+
+                            .map {
+                                text-align: center;
+                                .title {
+                                    text-align: center;
+                                    font-size: 24px;
+                                    margin-bottom: 18px;
+                                    display: flex;
+                                    justify-content: center;
+                                }
+                                figure {
+                                    height: 400px;
+                                }
+
+                                a {
+                                    border: 1px solid #000000;
+                                    color: #000000;
+                                    margin-top: 30px;
+                                }
                             }
                         }
                     }
@@ -277,8 +299,6 @@ main {
             align-items: center;
             justify-content: center;
             height: 90vh;
-
-           
         }
     }
 }
