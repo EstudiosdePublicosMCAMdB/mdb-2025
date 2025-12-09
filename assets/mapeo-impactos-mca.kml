@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="168FgYYe8F-y1DddomK7yUfT1_jYLjUvr">
+	<name>Mapeo Impactos Museo de la Ciudad Autoconstruida</name>
+	<gx:CascadingStyle kml:id="__managed_style_27D823DB4B3C363B9588">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2A71A478A93C363B957E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_004D22E9193C363B957E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1505B2C1E93C363B957E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2A71A478A93C363B957E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_145B1B1C863C363B9588">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1505B2C1E93C363B957E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00804C730E3C363B9588">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_145B1B1C863C363B9588</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_27D823DB4B3C363B9588</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_124C6F35B83C363B9577">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_025AEEBBC63C363B9577">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0AB3A863683C363B9576">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_025AEEBBC63C363B9577</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_124C6F35B83C363B9577</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0C034E8A333AA9F0EDE0">
+		<name>Ciudad Bolívar</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0AB3A863683C363B9576</styleUrl>
+		<Placemark id="05C478AAD83C1519F798">
+			<name>Museo del Café</name>
+			<LookAt>
+				<longitude>-74.16048889829419</longitude>
+				<latitude>4.547890782956763</latitude>
+				<altitude>2815.629762766121</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>34.99974259305328</gx:fovy>
+				<range>841.9855386875861</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_00804C730E3C363B9588</styleUrl>
+			<Point>
+				<coordinates>-74.16050370650369,4.547860028822987,2815.593737543618</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="062D1F9C3E3AA9E95259">
+			<name>Quiba</name>
+			<gx:fid>0x8e3fa12d9b6a487f:0x5117b5f2f4c267c7</gx:fid>
+			<styleUrl>#__managed_style_004D22E9193C363B957E</styleUrl>
+			<Point>
+				<coordinates>-74.1663831773695,4.528438180011618,2995.648100871021</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="049E5EEB523AA4805557">
+			<name>Museo de la Ciudad Autoconstruida</name>
+			<gx:mid>/g/11rkdtlc9y</gx:mid>
+			<gx:fid>0x8e3f9fd286dda2d5:0xd01dfc1e26d44aef</gx:fid>
+			<LookAt>
+				<longitude>-74.1590341</longitude>
+				<latitude>4.550503199999999</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1052.813879753206</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_004D22E9193C363B957E</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.15882764263874,4.550331402373594,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="086E3286EE3C151C095C">
+		<name>Borde Sur</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0AB3A863683C363B9576</styleUrl>
+	</Folder>
+	<Folder id="03273BFF633C151CBAD8">
+		<name>Bogotá</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0AB3A863683C363B9576</styleUrl>
+	</Folder>
+	<Folder id="07E4F8EAED3C151D0C18">
+		<name>Nacional</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0AB3A863683C363B9576</styleUrl>
+	</Folder>
+</Document>
+</kml>

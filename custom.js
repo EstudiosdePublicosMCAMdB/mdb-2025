@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
+
+    /** Lightbox functionality **/
     const lbxCardButtons = document.querySelectorAll('.js-card-lbx');
 
     if (lbxCardButtons.length > 0) {
@@ -21,6 +23,22 @@ document.addEventListener('DOMContentLoaded', () => {
                 lightbox.setAttribute('aria-hidden', 'true');
             });
         });
+    }
 
+    /** Scroll behavior for anchor link **/
+    const goToReports = document.querySelector('a[href="#reportes"]');
+
+    if (goToReports) {
+        goToReports.addEventListener('click', (e) => {
+            e.preventDefault();
+            const target = document.querySelector('#reportes');
+
+            if (target) {
+                target.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start'
+                });
+            }
+        });
     }
 });

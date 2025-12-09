@@ -109,7 +109,7 @@ main {
     padding-bottom: 40px;
     .top-content {
         width: 100%;
-        padding: 35px 15px;
+        padding: 70px 15px 45px 15px;
         .container {
             display: flex;
             justify-content: center;
@@ -149,7 +149,10 @@ main {
             max-width: 1170px;
             margin: 0 auto;
             .description {
-                width: 100%;;
+                width: 100%;
+                p {
+                    margin-bottom: 30px;
+                }
             }
             .container {
                 &.flex {

@@ -108,7 +108,7 @@ main {
 }
 main .top-content {
   width: 100%;
-  padding: 35px 15px;
+  padding: 70px 15px 45px 15px;
 }
 main .top-content .container {
   display: flex;
@@ -144,6 +144,9 @@ main .cards-content__grid {
 }
 main .cards-content__grid .description {
   width: 100%;
+}
+main .cards-content__grid .description p {
+  margin-bottom: 30px;
 }
 main .cards-content__grid .container.flex {
   display: flex;
